@@ -1,7 +1,7 @@
 import { describe, expect, it } from "vitest";
 import { addItem, adjustQty, consumeIngredients, isLow } from "./inventory";
 import { allocateProteinBudget, canonicalProtein, isProtein } from "./protein";
-import { emojiFor, FOODS, searchFoods } from "./foods";
+import { emojiFor, FOODS, produceShortcuts, searchFoods, unitFor } from "./foods";
 import { adaptRecipe, buildMenu, explainLimitedMenu, rotateMenu } from "./match";
 import { setRating } from "./ratings";
 import { setJson, KEYS } from "./storage";
@@ -133,6 +133,25 @@ describe("protein and foods", () => {
       7
     );
     expect(budget["Pechuga de pollo"]).toBe(130);
+  });
+
+  it("finds pantry staples by alias", () => {
+    expect(searchFoods("mayonesa")[0]?.name).toBe("Mayonesa");
+    expect(searchFoods("mayo")[0]?.name).toBe("Mayonesa");
+    expect(searchFoods("maiz").some((f) => f.name === "Maíz")).toBe(true);
+    expect(searchFoods("choclo").some((f) => f.name === "Maíz")).toBe(true);
+  });
+
+  it("lemon is counted in units", () => {
+    expect(unitFor("Limón")).toBe("ud");
+    expect(unitFor("Mayonesa")).toBe("g");
+  });
+
+  it("produce shortcuts include maize and plantain", () => {
+    const names = produceShortcuts().map((f) => f.name);
+    expect(names).toContain("Maíz");
+    expect(names).toContain("Plátano");
+    expect(names).not.toContain("Mayonesa");
   });
 });
 
