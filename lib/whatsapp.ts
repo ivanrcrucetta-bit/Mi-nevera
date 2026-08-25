@@ -1,3 +1,4 @@
+import { computeMacros, formatMacrosWhatsApp } from "./nutrition";
 import { MEAL_LABEL } from "./planner";
 import type { MenuPlan } from "./types";
 
@@ -22,6 +23,7 @@ export function formatMenuForWhatsApp(plan: MenuPlan): string {
   for (const slot of plan.slots) {
     lines.push("");
     lines.push(`${slot.recipe.title}`);
+    lines.push(formatMacrosWhatsApp(computeMacros(slot.recipe.ingredients)));
     slot.recipe.steps.forEach((step, i) => {
       lines.push(`${i + 1}. ${step}`);
     });

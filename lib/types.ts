@@ -26,6 +26,13 @@ export type Ingredient = {
   unit: Unit;
 };
 
+export type Macros = {
+  kcal: number;
+  protein: number;
+  carbs: number;
+  fat: number;
+};
+
 export type Recipe = {
   id: string;
   title: string;

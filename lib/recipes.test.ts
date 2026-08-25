@@ -1,4 +1,6 @@
 import { describe, expect, it } from "vitest";
+import { adaptRecipe } from "./match";
+import { unitFor } from "./foods";
 import { RECIPES } from "./recipes";
 import { PROTEINS } from "./protein";
 
@@ -17,6 +19,20 @@ describe("mediterranean catalog", () => {
       expect(r.optionalIngredients.length).toBeGreaterThanOrEqual(2);
       expect(r.ingredients.length).toBeGreaterThanOrEqual(3);
       expect(r.steps.length).toBeGreaterThanOrEqual(4);
+    }
+  });
+
+  it("adapted without produce does not mention the catalog vegetable", () => {
+    for (const recipe of RECIPES) {
+      const unit = unitFor(recipe.protein);
+      const adapted = adaptRecipe(recipe, [
+        { id: "p", name: recipe.protein, qty: unit === "ud" ? 12 : 800, unit },
+        { id: "c", name: recipe.carb, qty: 400, unit: "g" },
+      ]);
+      expect(adapted, recipe.id).not.toBeNull();
+      const text = adapted!.steps.join(" ").toLowerCase();
+      expect(text, recipe.id).not.toContain(recipe.fiber.toLowerCase());
+      expect(text, recipe.id).toContain(recipe.carb.toLowerCase());
     }
   });
 

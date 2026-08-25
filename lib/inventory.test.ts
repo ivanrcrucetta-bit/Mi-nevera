@@ -240,6 +240,47 @@ describe("matcher", () => {
     );
     expect(result.ok).toBe(false);
   });
+
+  it("adapts and builds without vegetable", () => {
+    const stock: Item[] = [
+      { id: "1", name: "Pechuga de pollo", qty: 400, unit: "g" },
+      { id: "2", name: "Arroz", qty: 300, unit: "g" },
+    ];
+    const adapted = adaptRecipe(pechuga, stock);
+    expect(adapted).not.toBeNull();
+    expect(adapted?.ingredients.some((i) => i.name === "Brócoli")).toBe(false);
+    expect(adapted?.title.toLowerCase()).not.toContain("brócoli");
+    expect(adapted?.title.toLowerCase()).toContain("arroz");
+    expect(adapted?.steps.some((s) => /brócoli/i.test(s))).toBe(false);
+    expect(adapted?.steps).toEqual(["Hornea", "Hierve arroz"]);
+    const result = buildMenu(
+      stock,
+      { days: 1, meals: ["dinner"], servings: 2, startDate: "2026-08-24" },
+      [pechuga]
+    );
+    expect(result.ok).toBe(true);
+  });
+
+  it("rewrites catalog steps so they do not name a missing vegetable", () => {
+    const catalogStyle: Recipe = {
+      ...pechuga,
+      id: "r-catalog",
+      steps: [
+        "Unta el pechuga de pollo con aceite de oliva.",
+        "Cocina el arroz y mezcla el brócoli con aceite de oliva y ajo.",
+        "Sirve el pechuga de pollo con el arroz y el brócoli al lado.",
+      ],
+    };
+    const adapted = adaptRecipe(catalogStyle, [
+      { id: "1", name: "Pechuga de pollo", qty: 400, unit: "g" },
+      { id: "2", name: "Arroz", qty: 300, unit: "g" },
+    ]);
+    expect(adapted).not.toBeNull();
+    const text = adapted!.steps.join("\n");
+    expect(text.toLowerCase()).not.toContain("brócoli");
+    expect(text.toLowerCase()).toContain("arroz");
+    expect(adapted!.steps).toHaveLength(3);
+  });
 });
 
 describe("whatsapp and today", () => {
@@ -254,6 +295,8 @@ describe("whatsapp and today", () => {
     const text = formatMenuForWhatsApp(result.plan);
     expect(text).toContain("Menu de la semana");
     expect(text).toContain(result.plan.slots[0].recipe.title);
+    expect(text).toContain("Aprox.");
+    expect(text).toMatch(/kcal/);
   });
 
   it("getTodaysSlots returns today or first uncooked", () => {

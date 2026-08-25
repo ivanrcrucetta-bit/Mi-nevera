@@ -116,6 +116,36 @@ function pickSide(items: Item[], kind: "carb" | "produce", preferred?: string): 
   return pool[0];
 }
 
+function escapeRegExp(value: string): string {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+/** Drop the missing vegetable from a step. Isolated veg-only steps are removed. */
+function omitMissingFiber(step: string, fiber: string): string | null {
+  if (!fiber) return step;
+  const name = escapeRegExp(fiber);
+  if (!new RegExp(name, "i").test(step)) return step;
+
+  let next = step;
+  const cuts = [
+    new RegExp(`\\s+y\\s+mezcla\\s+el\\s+${name}\\b[^.;]*`, "gi"),
+    new RegExp(`\\s+y\\s+corta\\s+el\\s+${name}\\b`, "gi"),
+    new RegExp(`;\\s*saltea\\s+el\\s+${name}\\b[^.;]*`, "gi"),
+    new RegExp(`\\s+y\\s+el\\s+${name}\\b(\\s+al lado)?`, "gi"),
+    new RegExp(`\\s+el\\s+${name}\\b`, "gi"),
+    new RegExp(`\\s*${name}\\b`, "gi"),
+  ];
+  for (const re of cuts) next = next.replace(re, "");
+  next = next
+    .replace(/\s+/g, " ")
+    .replace(/\s+([.,;:])/g, "$1")
+    .replace(/[;,:]\s*$/g, "")
+    .trim();
+  if (!next || next.split(/\s+/).length < 2) return null;
+  if (!/[.!?]$/.test(next)) next += ".";
+  return next;
+}
+
 export function adaptRecipe(recipe: Recipe, items: Item[]): Recipe | null {
   if (recipe.kcalBand === "hearty") return null;
   const proteinItem = proteinInFridge(items, recipe.protein);
@@ -123,8 +153,8 @@ export function adaptRecipe(recipe: Recipe, items: Item[]): Recipe | null {
   if (!proteinItem || !need || !enoughProtein(proteinItem)) return null;
 
   const carbItem = pickSide(items, "carb", recipe.carb);
+  if (!carbItem) return null;
   const fiberItem = pickSide(items, "produce", recipe.fiber);
-  if (!carbItem || !fiberItem) return null;
 
   const proteinQty =
     need.unit === "ud"
@@ -137,25 +167,33 @@ export function adaptRecipe(recipe: Recipe, items: Item[]): Recipe | null {
     stovetop: "en sartén",
     salad: "en ensalada",
   };
-  const title = `${recipe.protein} ${how[recipe.method]} con ${carbItem.name.toLowerCase()} y ${fiberItem.name.toLowerCase()}`;
+  const title = fiberItem
+    ? `${recipe.protein} ${how[recipe.method]} con ${carbItem.name.toLowerCase()} y ${fiberItem.name.toLowerCase()}`
+    : `${recipe.protein} ${how[recipe.method]} con ${carbItem.name.toLowerCase()}`;
 
   const ingredients: Ingredient[] = [
     { name: recipe.protein, qty: proteinQty, unit: need.unit },
     { name: carbItem.name, qty: Math.min(carbItem.qty, 160), unit: "g" },
-    { name: fiberItem.name, qty: Math.min(fiberItem.qty, 150), unit: "g" },
   ];
+  if (fiberItem) {
+    ingredients.push({ name: fiberItem.name, qty: Math.min(fiberItem.qty, 150), unit: "g" });
+  }
 
-  const steps = recipe.steps.map((step) =>
-    step
-      .replace(new RegExp(recipe.carb, "gi"), carbItem.name.toLowerCase())
-      .replace(new RegExp(recipe.fiber, "gi"), fiberItem.name.toLowerCase())
-  );
+  const steps = recipe.steps
+    .map((step) => {
+      let next = step.replace(new RegExp(escapeRegExp(recipe.carb), "gi"), carbItem.name.toLowerCase());
+      if (fiberItem) {
+        return next.replace(new RegExp(escapeRegExp(recipe.fiber), "gi"), fiberItem.name.toLowerCase());
+      }
+      return omitMissingFiber(next, recipe.fiber);
+    })
+    .filter((step): step is string => step !== null);
 
   const adapted: Recipe = {
     ...recipe,
     title,
     carb: carbItem.name,
-    fiber: fiberItem.name,
+    fiber: fiberItem?.name ?? "",
     ingredients,
     steps,
   };
@@ -258,16 +296,15 @@ export function explainLimitedMenu(items: Item[], plan: MenuPlan): string | unde
   const used = [...new Set(plan.slots.map((s) => s.recipe.protein))];
   const unused = fridgeProteins.filter((p) => !used.includes(p));
   const hasCarb = sidesOfKind(items, "carb").length > 0;
-  const hasVeg = sidesOfKind(items, "produce").length > 0;
 
   if (fridgeProteins.length <= 1 && used.length === 1) {
-    return `Esta semana salió solo ${used[0].toLowerCase()} porque es la única proteína que tienes con cantidad suficiente. Añade pechuga, huevo o atún (y un carbo y una verdura) para variar.`;
+    return `Esta semana salió solo ${used[0].toLowerCase()} porque es la única proteína que tienes con cantidad suficiente. Añade pechuga, huevo o atún (y un carbo) para variar.`;
   }
 
   if (unused.length) {
     const list = unused.join(", ");
-    if (!hasCarb || !hasVeg) {
-      return `Tienes ${list}, pero me falta un carbo (arroz, papa…) o una verdura para armarles un plato completo. Por eso usé solo ${used.join(" y ")}.`;
+    if (!hasCarb) {
+      return `Tienes ${list}, pero me falta un carbo (arroz, papa…) para armarles un plato. Por eso usé solo ${used.join(" y ")}.`;
     }
     return `Tienes ${list} en la nevera, pero no alcanza la cantidad para un plato de dos (hace falta unos 80 g, o 1 huevo). Por eso la semana quedó con ${used.join(" y ")}. Suma un poco más y vuelve a armar.`;
   }
@@ -299,11 +336,11 @@ export function buildMenu(
         "Necesito una proteína con un poco de cantidad: unos 80 g de carne o pescado, o al menos 1 huevo. Añade pechuga, molida, atún…",
     };
   }
-  if (!sidesOfKind(items, "carb").length || !sidesOfKind(items, "produce").length) {
+  if (!sidesOfKind(items, "carb").length) {
     return {
       ok: false,
       reason:
-        "Para un plato completo me hace falta un carbo (arroz, papa, pasta…) y una verdura (lechuga, tomate, brócoli…). Añádelos y lo armo.",
+        "Para armar el menú me hace falta un carbo (arroz, papa, pasta…). Añádelo y lo armo.",
     };
   }
 
@@ -321,7 +358,7 @@ export function buildMenu(
         return {
           ok: false,
           reason:
-            "No encontré un plato que cierre con lo que hay. Revisa que la proteína, el arroz o papa y la verdura tengan cantidad suficiente.",
+            "No encontré un plato que cierre con lo que hay. Revisa que la proteína y el arroz o papa tengan cantidad suficiente.",
         };
       }
       break;

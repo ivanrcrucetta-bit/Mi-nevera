@@ -12,6 +12,8 @@ import { emojiFor } from "@/lib/foods";
 import { recordCooked, recordPlanned, loadHistory } from "@/lib/history";
 import { addItem, adjustQty, consumeIngredients, isLow, removeItem } from "@/lib/inventory";
 import { buildMenu, ingredientsUsed, regenerateSlot, rotateMenu } from "@/lib/match";
+import { computeMacros, formatMacrosCard } from "@/lib/nutrition";
+import { bumpIngredient, replaceProtein } from "@/lib/recipe-edit";
 import { getTodaysSlots, loadPlan, markCooked, savePlan } from "@/lib/menu";
 import { MEAL_LABEL, todayIso } from "@/lib/planner";
 import { getRating, getRatingsMap, setRating } from "@/lib/ratings";
@@ -133,6 +135,16 @@ export function FridgeApp() {
   function rate(slot: MenuSlot, stars: Stars) {
     setRating(slot.recipe.id, stars);
     setRatingsTick((n) => n + 1);
+  }
+
+  function updateSlotRecipe(slot: MenuSlot, recipe: MenuSlot["recipe"]) {
+    if (!plan || slot.status === "cooked") return;
+    const next = {
+      ...plan,
+      slots: plan.slots.map((s) => (s.id === slot.id ? { ...s, recipe } : s)),
+    };
+    persistPlan(next);
+    setOpenSlot({ ...slot, recipe });
   }
 
   const shell = (
@@ -325,6 +337,9 @@ export function FridgeApp() {
                     {METHOD_META[slot.recipe.method].emoji} {METHOD_META[slot.recipe.method].label} ·{" "}
                     {slot.recipe.time}
                   </p>
+                  <p className="text-sm text-muted-foreground">
+                    {formatMacrosCard(computeMacros(slot.recipe.ingredients))}
+                  </p>
                 </CardContent>
               </button>
               <CardContent className="flex gap-2 px-3 pb-4 sm:px-6">
@@ -409,11 +424,22 @@ export function FridgeApp() {
       <RecipeSheet
         key={ratingsTick}
         slot={openSlot}
+        items={items}
         stars={openSlot ? getRating(openSlot.recipe.id) : undefined}
         onClose={() => setOpenSlot(null)}
         onRate={(s) => openSlot && rate(openSlot, s)}
         onCook={() => openSlot && cook(openSlot)}
         onSwap={() => openSlot && swap(openSlot)}
+        onBump={(name, dir) =>
+          openSlot && updateSlotRecipe(openSlot, bumpIngredient(openSlot.recipe, name, dir))
+        }
+        onReplaceProtein={(protein) =>
+          openSlot &&
+          updateSlotRecipe(
+            openSlot,
+            replaceProtein(openSlot.recipe, protein, plan?.config.servings ?? 2)
+          )
+        }
       />
     </div>
   );
