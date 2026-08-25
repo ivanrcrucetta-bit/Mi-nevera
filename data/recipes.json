@@ -1,0 +1,4082 @@
+[
+  {
+    "id": "hamburguesa-de-res-grill-0",
+    "title": "Hamburguesa de res a la parrilla con arroz y tomate",
+    "protein": "Hamburguesa de res",
+    "carb": "Arroz",
+    "fiber": "Tomate",
+    "method": "grill",
+    "kcalBand": "balanced",
+    "image": "/recipes/hamburguesa-de-res-grill.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Hamburguesa de res",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Arroz",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Tomate",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Añada aceitunas al final.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Unta el hamburguesa de res con aceite de oliva, orégano, sal y pimienta.",
+      "Ásalo a la parrilla 4–6 minutos por lado, sin pasarlo.",
+      "Cocina el arroz y mezcla el tomate con aceite de oliva y ajo.",
+      "Sirve el hamburguesa de res con el arroz y el tomate al lado."
+    ]
+  },
+  {
+    "id": "hamburguesa-de-res-oven-1",
+    "title": "Hamburguesa de res al horno con quinoa y espinaca",
+    "protein": "Hamburguesa de res",
+    "carb": "Quinoa",
+    "fiber": "Espinaca",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/hamburguesa-de-res-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Hamburguesa de res",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Quinoa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Espinaca",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Queso feta",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Desmigaje queso feta por encima.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el hamburguesa de res con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el quinoa y el espinaca al vapor o en la misma bandeja.",
+      "Reposa el hamburguesa de res 3 minutos y emplata con el quinoa y el espinaca."
+    ]
+  },
+  {
+    "id": "hamburguesa-de-res-stovetop-2",
+    "title": "Hamburguesa de res en sartén con pasta y calabacín",
+    "protein": "Hamburguesa de res",
+    "carb": "Pasta",
+    "fiber": "Calabacín",
+    "method": "stovetop",
+    "kcalBand": "balanced",
+    "image": "/recipes/hamburguesa-de-res-stovetop.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Hamburguesa de res",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Pasta",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Calabacín",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Orégano",
+        "qty": 4,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 30,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Remate con orégano seco.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Calienta una sartén con un hilo de aceite de oliva.",
+      "Cocina el hamburguesa de res a fuego medio hasta el punto.",
+      "En otra olla cocina el pasta; saltea el calabacín con ajo.",
+      "Sirve caliente: hamburguesa de res, pasta y el calabacín."
+    ]
+  },
+  {
+    "id": "hamburguesa-de-res-salad-3",
+    "title": "Hamburguesa de res en ensalada con cuscús y pepino",
+    "protein": "Hamburguesa de res",
+    "carb": "Cuscús",
+    "fiber": "Pepino",
+    "method": "salad",
+    "kcalBand": "balanced",
+    "image": "/recipes/hamburguesa-de-res-salad.svg",
+    "time": "15 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Hamburguesa de res",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Cuscús",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Pepino",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Mayonesa",
+        "qty": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Un toque de mayonesa al emplatar.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Cocina o desmenuza el hamburguesa de res y déjalo templado.",
+      "Prepara el cuscús y corta el pepino.",
+      "Aliña con aceite de oliva, limón y orégano.",
+      "Junta el hamburguesa de res con el cuscús y el pepino en dos bowls."
+    ]
+  },
+  {
+    "id": "hamburguesa-de-res-oven-4",
+    "title": "Hamburguesa de res al horno con papa y brócoli",
+    "protein": "Hamburguesa de res",
+    "carb": "Papa",
+    "fiber": "Brócoli",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/hamburguesa-de-res-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Hamburguesa de res",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Papa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Brócoli",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Yogur",
+        "qty": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Sirva con un hilo de yogur.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el hamburguesa de res con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el papa y el brócoli al vapor o en la misma bandeja.",
+      "Reposa el hamburguesa de res 3 minutos y emplata con el papa y el brócoli."
+    ]
+  },
+  {
+    "id": "hamburguesa-de-pollo-grill-0",
+    "title": "Hamburguesa de pollo a la parrilla con arroz y tomate",
+    "protein": "Hamburguesa de pollo",
+    "carb": "Arroz",
+    "fiber": "Tomate",
+    "method": "grill",
+    "kcalBand": "balanced",
+    "image": "/recipes/hamburguesa-de-pollo-grill.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Hamburguesa de pollo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Arroz",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Tomate",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Añada aceitunas al final.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Unta el hamburguesa de pollo con aceite de oliva, orégano, sal y pimienta.",
+      "Ásalo a la parrilla 4–6 minutos por lado, sin pasarlo.",
+      "Cocina el arroz y mezcla el tomate con aceite de oliva y ajo.",
+      "Sirve el hamburguesa de pollo con el arroz y el tomate al lado."
+    ]
+  },
+  {
+    "id": "hamburguesa-de-pollo-oven-1",
+    "title": "Hamburguesa de pollo al horno con quinoa y espinaca",
+    "protein": "Hamburguesa de pollo",
+    "carb": "Quinoa",
+    "fiber": "Espinaca",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/hamburguesa-de-pollo-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Hamburguesa de pollo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Quinoa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Espinaca",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Queso feta",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Desmigaje queso feta por encima.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el hamburguesa de pollo con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el quinoa y el espinaca al vapor o en la misma bandeja.",
+      "Reposa el hamburguesa de pollo 3 minutos y emplata con el quinoa y el espinaca."
+    ]
+  },
+  {
+    "id": "hamburguesa-de-pollo-stovetop-2",
+    "title": "Hamburguesa de pollo en sartén con pasta y calabacín",
+    "protein": "Hamburguesa de pollo",
+    "carb": "Pasta",
+    "fiber": "Calabacín",
+    "method": "stovetop",
+    "kcalBand": "balanced",
+    "image": "/recipes/hamburguesa-de-pollo-stovetop.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Hamburguesa de pollo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Pasta",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Calabacín",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Orégano",
+        "qty": 4,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 30,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Remate con orégano seco.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Calienta una sartén con un hilo de aceite de oliva.",
+      "Cocina el hamburguesa de pollo a fuego medio hasta el punto.",
+      "En otra olla cocina el pasta; saltea el calabacín con ajo.",
+      "Sirve caliente: hamburguesa de pollo, pasta y el calabacín."
+    ]
+  },
+  {
+    "id": "hamburguesa-de-pollo-salad-3",
+    "title": "Hamburguesa de pollo en ensalada con cuscús y pepino",
+    "protein": "Hamburguesa de pollo",
+    "carb": "Cuscús",
+    "fiber": "Pepino",
+    "method": "salad",
+    "kcalBand": "balanced",
+    "image": "/recipes/hamburguesa-de-pollo-salad.svg",
+    "time": "15 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Hamburguesa de pollo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Cuscús",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Pepino",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Mayonesa",
+        "qty": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Un toque de mayonesa al emplatar.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Cocina o desmenuza el hamburguesa de pollo y déjalo templado.",
+      "Prepara el cuscús y corta el pepino.",
+      "Aliña con aceite de oliva, limón y orégano.",
+      "Junta el hamburguesa de pollo con el cuscús y el pepino en dos bowls."
+    ]
+  },
+  {
+    "id": "hamburguesa-de-pollo-oven-4",
+    "title": "Hamburguesa de pollo al horno con papa y brócoli",
+    "protein": "Hamburguesa de pollo",
+    "carb": "Papa",
+    "fiber": "Brócoli",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/hamburguesa-de-pollo-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Hamburguesa de pollo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Papa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Brócoli",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Yogur",
+        "qty": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Sirva con un hilo de yogur.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el hamburguesa de pollo con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el papa y el brócoli al vapor o en la misma bandeja.",
+      "Reposa el hamburguesa de pollo 3 minutos y emplata con el papa y el brócoli."
+    ]
+  },
+  {
+    "id": "carne-molida-de-res-grill-0",
+    "title": "Carne molida de res a la parrilla con arroz y tomate",
+    "protein": "Carne molida de res",
+    "carb": "Arroz",
+    "fiber": "Tomate",
+    "method": "grill",
+    "kcalBand": "balanced",
+    "image": "/recipes/carne-molida-de-res-grill.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Carne molida de res",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Arroz",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Tomate",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Añada aceitunas al final.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Unta el carne molida de res con aceite de oliva, orégano, sal y pimienta.",
+      "Ásalo a la parrilla 4–6 minutos por lado, sin pasarlo.",
+      "Cocina el arroz y mezcla el tomate con aceite de oliva y ajo.",
+      "Sirve el carne molida de res con el arroz y el tomate al lado."
+    ]
+  },
+  {
+    "id": "carne-molida-de-res-oven-1",
+    "title": "Carne molida de res al horno con quinoa y espinaca",
+    "protein": "Carne molida de res",
+    "carb": "Quinoa",
+    "fiber": "Espinaca",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/carne-molida-de-res-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Carne molida de res",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Quinoa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Espinaca",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Queso feta",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Desmigaje queso feta por encima.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el carne molida de res con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el quinoa y el espinaca al vapor o en la misma bandeja.",
+      "Reposa el carne molida de res 3 minutos y emplata con el quinoa y el espinaca."
+    ]
+  },
+  {
+    "id": "carne-molida-de-res-stovetop-2",
+    "title": "Carne molida de res en sartén con pasta y calabacín",
+    "protein": "Carne molida de res",
+    "carb": "Pasta",
+    "fiber": "Calabacín",
+    "method": "stovetop",
+    "kcalBand": "balanced",
+    "image": "/recipes/carne-molida-de-res-stovetop.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Carne molida de res",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Pasta",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Calabacín",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Orégano",
+        "qty": 4,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 30,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Remate con orégano seco.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Calienta una sartén con un hilo de aceite de oliva.",
+      "Cocina el carne molida de res a fuego medio hasta el punto.",
+      "En otra olla cocina el pasta; saltea el calabacín con ajo.",
+      "Sirve caliente: carne molida de res, pasta y el calabacín."
+    ]
+  },
+  {
+    "id": "carne-molida-de-res-salad-3",
+    "title": "Carne molida de res en ensalada con cuscús y pepino",
+    "protein": "Carne molida de res",
+    "carb": "Cuscús",
+    "fiber": "Pepino",
+    "method": "salad",
+    "kcalBand": "balanced",
+    "image": "/recipes/carne-molida-de-res-salad.svg",
+    "time": "15 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Carne molida de res",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Cuscús",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Pepino",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Mayonesa",
+        "qty": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Un toque de mayonesa al emplatar.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Cocina o desmenuza el carne molida de res y déjalo templado.",
+      "Prepara el cuscús y corta el pepino.",
+      "Aliña con aceite de oliva, limón y orégano.",
+      "Junta el carne molida de res con el cuscús y el pepino en dos bowls."
+    ]
+  },
+  {
+    "id": "carne-molida-de-res-oven-4",
+    "title": "Carne molida de res al horno con papa y brócoli",
+    "protein": "Carne molida de res",
+    "carb": "Papa",
+    "fiber": "Brócoli",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/carne-molida-de-res-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Carne molida de res",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Papa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Brócoli",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Yogur",
+        "qty": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Sirva con un hilo de yogur.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el carne molida de res con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el papa y el brócoli al vapor o en la misma bandeja.",
+      "Reposa el carne molida de res 3 minutos y emplata con el papa y el brócoli."
+    ]
+  },
+  {
+    "id": "carne-molida-de-cerdo-grill-0",
+    "title": "Carne molida de cerdo a la parrilla con arroz y tomate",
+    "protein": "Carne molida de cerdo",
+    "carb": "Arroz",
+    "fiber": "Tomate",
+    "method": "grill",
+    "kcalBand": "balanced",
+    "image": "/recipes/carne-molida-de-cerdo-grill.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Carne molida de cerdo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Arroz",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Tomate",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Añada aceitunas al final.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Unta el carne molida de cerdo con aceite de oliva, orégano, sal y pimienta.",
+      "Ásalo a la parrilla 4–6 minutos por lado, sin pasarlo.",
+      "Cocina el arroz y mezcla el tomate con aceite de oliva y ajo.",
+      "Sirve el carne molida de cerdo con el arroz y el tomate al lado."
+    ]
+  },
+  {
+    "id": "carne-molida-de-cerdo-oven-1",
+    "title": "Carne molida de cerdo al horno con quinoa y espinaca",
+    "protein": "Carne molida de cerdo",
+    "carb": "Quinoa",
+    "fiber": "Espinaca",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/carne-molida-de-cerdo-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Carne molida de cerdo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Quinoa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Espinaca",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Queso feta",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Desmigaje queso feta por encima.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el carne molida de cerdo con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el quinoa y el espinaca al vapor o en la misma bandeja.",
+      "Reposa el carne molida de cerdo 3 minutos y emplata con el quinoa y el espinaca."
+    ]
+  },
+  {
+    "id": "carne-molida-de-cerdo-stovetop-2",
+    "title": "Carne molida de cerdo en sartén con pasta y calabacín",
+    "protein": "Carne molida de cerdo",
+    "carb": "Pasta",
+    "fiber": "Calabacín",
+    "method": "stovetop",
+    "kcalBand": "balanced",
+    "image": "/recipes/carne-molida-de-cerdo-stovetop.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Carne molida de cerdo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Pasta",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Calabacín",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Orégano",
+        "qty": 4,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 30,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Remate con orégano seco.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Calienta una sartén con un hilo de aceite de oliva.",
+      "Cocina el carne molida de cerdo a fuego medio hasta el punto.",
+      "En otra olla cocina el pasta; saltea el calabacín con ajo.",
+      "Sirve caliente: carne molida de cerdo, pasta y el calabacín."
+    ]
+  },
+  {
+    "id": "carne-molida-de-cerdo-salad-3",
+    "title": "Carne molida de cerdo en ensalada con cuscús y pepino",
+    "protein": "Carne molida de cerdo",
+    "carb": "Cuscús",
+    "fiber": "Pepino",
+    "method": "salad",
+    "kcalBand": "balanced",
+    "image": "/recipes/carne-molida-de-cerdo-salad.svg",
+    "time": "15 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Carne molida de cerdo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Cuscús",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Pepino",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Mayonesa",
+        "qty": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Un toque de mayonesa al emplatar.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Cocina o desmenuza el carne molida de cerdo y déjalo templado.",
+      "Prepara el cuscús y corta el pepino.",
+      "Aliña con aceite de oliva, limón y orégano.",
+      "Junta el carne molida de cerdo con el cuscús y el pepino en dos bowls."
+    ]
+  },
+  {
+    "id": "carne-molida-de-cerdo-oven-4",
+    "title": "Carne molida de cerdo al horno con papa y brócoli",
+    "protein": "Carne molida de cerdo",
+    "carb": "Papa",
+    "fiber": "Brócoli",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/carne-molida-de-cerdo-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Carne molida de cerdo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Papa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Brócoli",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Yogur",
+        "qty": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Sirva con un hilo de yogur.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el carne molida de cerdo con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el papa y el brócoli al vapor o en la misma bandeja.",
+      "Reposa el carne molida de cerdo 3 minutos y emplata con el papa y el brócoli."
+    ]
+  },
+  {
+    "id": "carne-molida-de-pollo-grill-0",
+    "title": "Carne molida de pollo a la parrilla con arroz y tomate",
+    "protein": "Carne molida de pollo",
+    "carb": "Arroz",
+    "fiber": "Tomate",
+    "method": "grill",
+    "kcalBand": "balanced",
+    "image": "/recipes/carne-molida-de-pollo-grill.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Carne molida de pollo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Arroz",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Tomate",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Añada aceitunas al final.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Unta el carne molida de pollo con aceite de oliva, orégano, sal y pimienta.",
+      "Ásalo a la parrilla 4–6 minutos por lado, sin pasarlo.",
+      "Cocina el arroz y mezcla el tomate con aceite de oliva y ajo.",
+      "Sirve el carne molida de pollo con el arroz y el tomate al lado."
+    ]
+  },
+  {
+    "id": "carne-molida-de-pollo-oven-1",
+    "title": "Carne molida de pollo al horno con quinoa y espinaca",
+    "protein": "Carne molida de pollo",
+    "carb": "Quinoa",
+    "fiber": "Espinaca",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/carne-molida-de-pollo-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Carne molida de pollo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Quinoa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Espinaca",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Queso feta",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Desmigaje queso feta por encima.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el carne molida de pollo con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el quinoa y el espinaca al vapor o en la misma bandeja.",
+      "Reposa el carne molida de pollo 3 minutos y emplata con el quinoa y el espinaca."
+    ]
+  },
+  {
+    "id": "carne-molida-de-pollo-stovetop-2",
+    "title": "Carne molida de pollo en sartén con pasta y calabacín",
+    "protein": "Carne molida de pollo",
+    "carb": "Pasta",
+    "fiber": "Calabacín",
+    "method": "stovetop",
+    "kcalBand": "balanced",
+    "image": "/recipes/carne-molida-de-pollo-stovetop.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Carne molida de pollo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Pasta",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Calabacín",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Orégano",
+        "qty": 4,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 30,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Remate con orégano seco.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Calienta una sartén con un hilo de aceite de oliva.",
+      "Cocina el carne molida de pollo a fuego medio hasta el punto.",
+      "En otra olla cocina el pasta; saltea el calabacín con ajo.",
+      "Sirve caliente: carne molida de pollo, pasta y el calabacín."
+    ]
+  },
+  {
+    "id": "carne-molida-de-pollo-salad-3",
+    "title": "Carne molida de pollo en ensalada con cuscús y pepino",
+    "protein": "Carne molida de pollo",
+    "carb": "Cuscús",
+    "fiber": "Pepino",
+    "method": "salad",
+    "kcalBand": "balanced",
+    "image": "/recipes/carne-molida-de-pollo-salad.svg",
+    "time": "15 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Carne molida de pollo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Cuscús",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Pepino",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Mayonesa",
+        "qty": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Un toque de mayonesa al emplatar.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Cocina o desmenuza el carne molida de pollo y déjalo templado.",
+      "Prepara el cuscús y corta el pepino.",
+      "Aliña con aceite de oliva, limón y orégano.",
+      "Junta el carne molida de pollo con el cuscús y el pepino en dos bowls."
+    ]
+  },
+  {
+    "id": "carne-molida-de-pollo-oven-4",
+    "title": "Carne molida de pollo al horno con papa y brócoli",
+    "protein": "Carne molida de pollo",
+    "carb": "Papa",
+    "fiber": "Brócoli",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/carne-molida-de-pollo-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Carne molida de pollo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Papa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Brócoli",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Yogur",
+        "qty": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Sirva con un hilo de yogur.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el carne molida de pollo con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el papa y el brócoli al vapor o en la misma bandeja.",
+      "Reposa el carne molida de pollo 3 minutos y emplata con el papa y el brócoli."
+    ]
+  },
+  {
+    "id": "pechuga-de-pollo-grill-0",
+    "title": "Pechuga de pollo a la parrilla con arroz y tomate",
+    "protein": "Pechuga de pollo",
+    "carb": "Arroz",
+    "fiber": "Tomate",
+    "method": "grill",
+    "kcalBand": "balanced",
+    "image": "/recipes/pechuga-de-pollo-grill.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Pechuga de pollo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Arroz",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Tomate",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Añada aceitunas al final.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Unta el pechuga de pollo con aceite de oliva, orégano, sal y pimienta.",
+      "Ásalo a la parrilla 4–6 minutos por lado, sin pasarlo.",
+      "Cocina el arroz y mezcla el tomate con aceite de oliva y ajo.",
+      "Sirve el pechuga de pollo con el arroz y el tomate al lado."
+    ]
+  },
+  {
+    "id": "pechuga-de-pollo-oven-1",
+    "title": "Pechuga de pollo al horno con quinoa y espinaca",
+    "protein": "Pechuga de pollo",
+    "carb": "Quinoa",
+    "fiber": "Espinaca",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/pechuga-de-pollo-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Pechuga de pollo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Quinoa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Espinaca",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Queso feta",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Desmigaje queso feta por encima.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el pechuga de pollo con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el quinoa y el espinaca al vapor o en la misma bandeja.",
+      "Reposa el pechuga de pollo 3 minutos y emplata con el quinoa y el espinaca."
+    ]
+  },
+  {
+    "id": "pechuga-de-pollo-stovetop-2",
+    "title": "Pechuga de pollo en sartén con pasta y calabacín",
+    "protein": "Pechuga de pollo",
+    "carb": "Pasta",
+    "fiber": "Calabacín",
+    "method": "stovetop",
+    "kcalBand": "balanced",
+    "image": "/recipes/pechuga-de-pollo-stovetop.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Pechuga de pollo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Pasta",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Calabacín",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Orégano",
+        "qty": 4,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 30,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Remate con orégano seco.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Calienta una sartén con un hilo de aceite de oliva.",
+      "Cocina el pechuga de pollo a fuego medio hasta el punto.",
+      "En otra olla cocina el pasta; saltea el calabacín con ajo.",
+      "Sirve caliente: pechuga de pollo, pasta y el calabacín."
+    ]
+  },
+  {
+    "id": "pechuga-de-pollo-salad-3",
+    "title": "Pechuga de pollo en ensalada con cuscús y pepino",
+    "protein": "Pechuga de pollo",
+    "carb": "Cuscús",
+    "fiber": "Pepino",
+    "method": "salad",
+    "kcalBand": "balanced",
+    "image": "/recipes/pechuga-de-pollo-salad.svg",
+    "time": "15 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Pechuga de pollo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Cuscús",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Pepino",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Mayonesa",
+        "qty": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Un toque de mayonesa al emplatar.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Cocina o desmenuza el pechuga de pollo y déjalo templado.",
+      "Prepara el cuscús y corta el pepino.",
+      "Aliña con aceite de oliva, limón y orégano.",
+      "Junta el pechuga de pollo con el cuscús y el pepino en dos bowls."
+    ]
+  },
+  {
+    "id": "pechuga-de-pollo-oven-4",
+    "title": "Pechuga de pollo al horno con papa y brócoli",
+    "protein": "Pechuga de pollo",
+    "carb": "Papa",
+    "fiber": "Brócoli",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/pechuga-de-pollo-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Pechuga de pollo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Papa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Brócoli",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Yogur",
+        "qty": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Sirva con un hilo de yogur.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el pechuga de pollo con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el papa y el brócoli al vapor o en la misma bandeja.",
+      "Reposa el pechuga de pollo 3 minutos y emplata con el papa y el brócoli."
+    ]
+  },
+  {
+    "id": "muslo-de-pollo-grill-0",
+    "title": "Muslo de pollo a la parrilla con arroz y tomate",
+    "protein": "Muslo de pollo",
+    "carb": "Arroz",
+    "fiber": "Tomate",
+    "method": "grill",
+    "kcalBand": "balanced",
+    "image": "/recipes/muslo-de-pollo-grill.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Muslo de pollo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Arroz",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Tomate",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Añada aceitunas al final.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Unta el muslo de pollo con aceite de oliva, orégano, sal y pimienta.",
+      "Ásalo a la parrilla 4–6 minutos por lado, sin pasarlo.",
+      "Cocina el arroz y mezcla el tomate con aceite de oliva y ajo.",
+      "Sirve el muslo de pollo con el arroz y el tomate al lado."
+    ]
+  },
+  {
+    "id": "muslo-de-pollo-oven-1",
+    "title": "Muslo de pollo al horno con quinoa y espinaca",
+    "protein": "Muslo de pollo",
+    "carb": "Quinoa",
+    "fiber": "Espinaca",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/muslo-de-pollo-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Muslo de pollo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Quinoa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Espinaca",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Queso feta",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Desmigaje queso feta por encima.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el muslo de pollo con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el quinoa y el espinaca al vapor o en la misma bandeja.",
+      "Reposa el muslo de pollo 3 minutos y emplata con el quinoa y el espinaca."
+    ]
+  },
+  {
+    "id": "muslo-de-pollo-stovetop-2",
+    "title": "Muslo de pollo en sartén con pasta y calabacín",
+    "protein": "Muslo de pollo",
+    "carb": "Pasta",
+    "fiber": "Calabacín",
+    "method": "stovetop",
+    "kcalBand": "balanced",
+    "image": "/recipes/muslo-de-pollo-stovetop.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Muslo de pollo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Pasta",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Calabacín",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Orégano",
+        "qty": 4,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 30,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Remate con orégano seco.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Calienta una sartén con un hilo de aceite de oliva.",
+      "Cocina el muslo de pollo a fuego medio hasta el punto.",
+      "En otra olla cocina el pasta; saltea el calabacín con ajo.",
+      "Sirve caliente: muslo de pollo, pasta y el calabacín."
+    ]
+  },
+  {
+    "id": "muslo-de-pollo-salad-3",
+    "title": "Muslo de pollo en ensalada con cuscús y pepino",
+    "protein": "Muslo de pollo",
+    "carb": "Cuscús",
+    "fiber": "Pepino",
+    "method": "salad",
+    "kcalBand": "balanced",
+    "image": "/recipes/muslo-de-pollo-salad.svg",
+    "time": "15 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Muslo de pollo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Cuscús",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Pepino",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Mayonesa",
+        "qty": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Un toque de mayonesa al emplatar.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Cocina o desmenuza el muslo de pollo y déjalo templado.",
+      "Prepara el cuscús y corta el pepino.",
+      "Aliña con aceite de oliva, limón y orégano.",
+      "Junta el muslo de pollo con el cuscús y el pepino en dos bowls."
+    ]
+  },
+  {
+    "id": "muslo-de-pollo-oven-4",
+    "title": "Muslo de pollo al horno con papa y brócoli",
+    "protein": "Muslo de pollo",
+    "carb": "Papa",
+    "fiber": "Brócoli",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/muslo-de-pollo-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Muslo de pollo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Papa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Brócoli",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Yogur",
+        "qty": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Sirva con un hilo de yogur.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el muslo de pollo con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el papa y el brócoli al vapor o en la misma bandeja.",
+      "Reposa el muslo de pollo 3 minutos y emplata con el papa y el brócoli."
+    ]
+  },
+  {
+    "id": "filete-de-cerdo-grill-0",
+    "title": "Filete de cerdo a la parrilla con arroz y tomate",
+    "protein": "Filete de cerdo",
+    "carb": "Arroz",
+    "fiber": "Tomate",
+    "method": "grill",
+    "kcalBand": "balanced",
+    "image": "/recipes/filete-de-cerdo-grill.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Filete de cerdo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Arroz",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Tomate",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Añada aceitunas al final.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Unta el filete de cerdo con aceite de oliva, orégano, sal y pimienta.",
+      "Ásalo a la parrilla 4–6 minutos por lado, sin pasarlo.",
+      "Cocina el arroz y mezcla el tomate con aceite de oliva y ajo.",
+      "Sirve el filete de cerdo con el arroz y el tomate al lado."
+    ]
+  },
+  {
+    "id": "filete-de-cerdo-oven-1",
+    "title": "Filete de cerdo al horno con quinoa y espinaca",
+    "protein": "Filete de cerdo",
+    "carb": "Quinoa",
+    "fiber": "Espinaca",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/filete-de-cerdo-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Filete de cerdo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Quinoa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Espinaca",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Queso feta",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Desmigaje queso feta por encima.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el filete de cerdo con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el quinoa y el espinaca al vapor o en la misma bandeja.",
+      "Reposa el filete de cerdo 3 minutos y emplata con el quinoa y el espinaca."
+    ]
+  },
+  {
+    "id": "filete-de-cerdo-stovetop-2",
+    "title": "Filete de cerdo en sartén con pasta y calabacín",
+    "protein": "Filete de cerdo",
+    "carb": "Pasta",
+    "fiber": "Calabacín",
+    "method": "stovetop",
+    "kcalBand": "balanced",
+    "image": "/recipes/filete-de-cerdo-stovetop.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Filete de cerdo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Pasta",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Calabacín",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Orégano",
+        "qty": 4,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 30,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Remate con orégano seco.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Calienta una sartén con un hilo de aceite de oliva.",
+      "Cocina el filete de cerdo a fuego medio hasta el punto.",
+      "En otra olla cocina el pasta; saltea el calabacín con ajo.",
+      "Sirve caliente: filete de cerdo, pasta y el calabacín."
+    ]
+  },
+  {
+    "id": "filete-de-cerdo-stovetop-3",
+    "title": "Filete de cerdo en sartén con cuscús y pimentón",
+    "protein": "Filete de cerdo",
+    "carb": "Cuscús",
+    "fiber": "Pimentón",
+    "method": "stovetop",
+    "kcalBand": "balanced",
+    "image": "/recipes/filete-de-cerdo-stovetop.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Filete de cerdo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Cuscús",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Pimentón",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Yogur",
+        "qty": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Sirva con un hilo de yogur.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Calienta una sartén con un hilo de aceite de oliva.",
+      "Cocina el filete de cerdo a fuego medio hasta el punto.",
+      "En otra olla cocina el cuscús; saltea el pimentón con ajo.",
+      "Sirve caliente: filete de cerdo, cuscús y el pimentón."
+    ]
+  },
+  {
+    "id": "filete-de-cerdo-oven-4",
+    "title": "Filete de cerdo al horno con papa y brócoli",
+    "protein": "Filete de cerdo",
+    "carb": "Papa",
+    "fiber": "Brócoli",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/filete-de-cerdo-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Filete de cerdo",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Papa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Brócoli",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Yogur",
+        "qty": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Sirva con un hilo de yogur.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el filete de cerdo con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el papa y el brócoli al vapor o en la misma bandeja.",
+      "Reposa el filete de cerdo 3 minutos y emplata con el papa y el brócoli."
+    ]
+  },
+  {
+    "id": "picana-grill-0",
+    "title": "Picaña a la parrilla con arroz y tomate",
+    "protein": "Picaña",
+    "carb": "Arroz",
+    "fiber": "Tomate",
+    "method": "grill",
+    "kcalBand": "balanced",
+    "image": "/recipes/picana-grill.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Picaña",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Arroz",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Tomate",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Añada aceitunas al final.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Unta el picaña con aceite de oliva, orégano, sal y pimienta.",
+      "Ásalo a la parrilla 4–6 minutos por lado, sin pasarlo.",
+      "Cocina el arroz y mezcla el tomate con aceite de oliva y ajo.",
+      "Sirve el picaña con el arroz y el tomate al lado."
+    ]
+  },
+  {
+    "id": "picana-oven-1",
+    "title": "Picaña al horno con quinoa y espinaca",
+    "protein": "Picaña",
+    "carb": "Quinoa",
+    "fiber": "Espinaca",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/picana-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Picaña",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Quinoa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Espinaca",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Queso feta",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Desmigaje queso feta por encima.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el picaña con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el quinoa y el espinaca al vapor o en la misma bandeja.",
+      "Reposa el picaña 3 minutos y emplata con el quinoa y el espinaca."
+    ]
+  },
+  {
+    "id": "picana-stovetop-2",
+    "title": "Picaña en sartén con pasta y calabacín",
+    "protein": "Picaña",
+    "carb": "Pasta",
+    "fiber": "Calabacín",
+    "method": "stovetop",
+    "kcalBand": "balanced",
+    "image": "/recipes/picana-stovetop.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Picaña",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Pasta",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Calabacín",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Orégano",
+        "qty": 4,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 30,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Remate con orégano seco.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Calienta una sartén con un hilo de aceite de oliva.",
+      "Cocina el picaña a fuego medio hasta el punto.",
+      "En otra olla cocina el pasta; saltea el calabacín con ajo.",
+      "Sirve caliente: picaña, pasta y el calabacín."
+    ]
+  },
+  {
+    "id": "picana-stovetop-3",
+    "title": "Picaña en sartén con cuscús y pimentón",
+    "protein": "Picaña",
+    "carb": "Cuscús",
+    "fiber": "Pimentón",
+    "method": "stovetop",
+    "kcalBand": "balanced",
+    "image": "/recipes/picana-stovetop.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Picaña",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Cuscús",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Pimentón",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Yogur",
+        "qty": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Sirva con un hilo de yogur.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Calienta una sartén con un hilo de aceite de oliva.",
+      "Cocina el picaña a fuego medio hasta el punto.",
+      "En otra olla cocina el cuscús; saltea el pimentón con ajo.",
+      "Sirve caliente: picaña, cuscús y el pimentón."
+    ]
+  },
+  {
+    "id": "picana-oven-4",
+    "title": "Picaña al horno con papa y brócoli",
+    "protein": "Picaña",
+    "carb": "Papa",
+    "fiber": "Brócoli",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/picana-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Picaña",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Papa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Brócoli",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Yogur",
+        "qty": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Sirva con un hilo de yogur.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el picaña con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el papa y el brócoli al vapor o en la misma bandeja.",
+      "Reposa el picaña 3 minutos y emplata con el papa y el brócoli."
+    ]
+  },
+  {
+    "id": "churrasco-grill-0",
+    "title": "Churrasco a la parrilla con arroz y tomate",
+    "protein": "Churrasco",
+    "carb": "Arroz",
+    "fiber": "Tomate",
+    "method": "grill",
+    "kcalBand": "balanced",
+    "image": "/recipes/churrasco-grill.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Churrasco",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Arroz",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Tomate",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Añada aceitunas al final.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Unta el churrasco con aceite de oliva, orégano, sal y pimienta.",
+      "Ásalo a la parrilla 4–6 minutos por lado, sin pasarlo.",
+      "Cocina el arroz y mezcla el tomate con aceite de oliva y ajo.",
+      "Sirve el churrasco con el arroz y el tomate al lado."
+    ]
+  },
+  {
+    "id": "churrasco-oven-1",
+    "title": "Churrasco al horno con quinoa y espinaca",
+    "protein": "Churrasco",
+    "carb": "Quinoa",
+    "fiber": "Espinaca",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/churrasco-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Churrasco",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Quinoa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Espinaca",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Queso feta",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Desmigaje queso feta por encima.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el churrasco con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el quinoa y el espinaca al vapor o en la misma bandeja.",
+      "Reposa el churrasco 3 minutos y emplata con el quinoa y el espinaca."
+    ]
+  },
+  {
+    "id": "churrasco-stovetop-2",
+    "title": "Churrasco en sartén con pasta y calabacín",
+    "protein": "Churrasco",
+    "carb": "Pasta",
+    "fiber": "Calabacín",
+    "method": "stovetop",
+    "kcalBand": "balanced",
+    "image": "/recipes/churrasco-stovetop.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Churrasco",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Pasta",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Calabacín",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Orégano",
+        "qty": 4,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 30,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Remate con orégano seco.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Calienta una sartén con un hilo de aceite de oliva.",
+      "Cocina el churrasco a fuego medio hasta el punto.",
+      "En otra olla cocina el pasta; saltea el calabacín con ajo.",
+      "Sirve caliente: churrasco, pasta y el calabacín."
+    ]
+  },
+  {
+    "id": "churrasco-stovetop-3",
+    "title": "Churrasco en sartén con cuscús y pimentón",
+    "protein": "Churrasco",
+    "carb": "Cuscús",
+    "fiber": "Pimentón",
+    "method": "stovetop",
+    "kcalBand": "balanced",
+    "image": "/recipes/churrasco-stovetop.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Churrasco",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Cuscús",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Pimentón",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Yogur",
+        "qty": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Sirva con un hilo de yogur.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Calienta una sartén con un hilo de aceite de oliva.",
+      "Cocina el churrasco a fuego medio hasta el punto.",
+      "En otra olla cocina el cuscús; saltea el pimentón con ajo.",
+      "Sirve caliente: churrasco, cuscús y el pimentón."
+    ]
+  },
+  {
+    "id": "churrasco-oven-4",
+    "title": "Churrasco al horno con papa y brócoli",
+    "protein": "Churrasco",
+    "carb": "Papa",
+    "fiber": "Brócoli",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/churrasco-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Churrasco",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Papa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Brócoli",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Yogur",
+        "qty": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Sirva con un hilo de yogur.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el churrasco con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el papa y el brócoli al vapor o en la misma bandeja.",
+      "Reposa el churrasco 3 minutos y emplata con el papa y el brócoli."
+    ]
+  },
+  {
+    "id": "camarones-grill-0",
+    "title": "Camarones a la parrilla con arroz y tomate",
+    "protein": "Camarones",
+    "carb": "Arroz",
+    "fiber": "Tomate",
+    "method": "grill",
+    "kcalBand": "balanced",
+    "image": "/recipes/camarones-grill.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Camarones",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Arroz",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Tomate",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Añada aceitunas al final.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Unta el camarones con aceite de oliva, orégano, sal y pimienta.",
+      "Ásalo a la parrilla 4–6 minutos por lado, sin pasarlo.",
+      "Cocina el arroz y mezcla el tomate con aceite de oliva y ajo.",
+      "Sirve el camarones con el arroz y el tomate al lado."
+    ]
+  },
+  {
+    "id": "camarones-oven-1",
+    "title": "Camarones al horno con quinoa y espinaca",
+    "protein": "Camarones",
+    "carb": "Quinoa",
+    "fiber": "Espinaca",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/camarones-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Camarones",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Quinoa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Espinaca",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Queso feta",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Desmigaje queso feta por encima.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el camarones con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el quinoa y el espinaca al vapor o en la misma bandeja.",
+      "Reposa el camarones 3 minutos y emplata con el quinoa y el espinaca."
+    ]
+  },
+  {
+    "id": "camarones-stovetop-2",
+    "title": "Camarones en sartén con pasta y calabacín",
+    "protein": "Camarones",
+    "carb": "Pasta",
+    "fiber": "Calabacín",
+    "method": "stovetop",
+    "kcalBand": "balanced",
+    "image": "/recipes/camarones-stovetop.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Camarones",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Pasta",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Calabacín",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Orégano",
+        "qty": 4,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 30,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Remate con orégano seco.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Calienta una sartén con un hilo de aceite de oliva.",
+      "Cocina el camarones a fuego medio hasta el punto.",
+      "En otra olla cocina el pasta; saltea el calabacín con ajo.",
+      "Sirve caliente: camarones, pasta y el calabacín."
+    ]
+  },
+  {
+    "id": "camarones-salad-3",
+    "title": "Camarones en ensalada con cuscús y pepino",
+    "protein": "Camarones",
+    "carb": "Cuscús",
+    "fiber": "Pepino",
+    "method": "salad",
+    "kcalBand": "balanced",
+    "image": "/recipes/camarones-salad.svg",
+    "time": "15 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Camarones",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Cuscús",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Pepino",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Mayonesa",
+        "qty": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Un toque de mayonesa al emplatar.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Cocina o desmenuza el camarones y déjalo templado.",
+      "Prepara el cuscús y corta el pepino.",
+      "Aliña con aceite de oliva, limón y orégano.",
+      "Junta el camarones con el cuscús y el pepino en dos bowls."
+    ]
+  },
+  {
+    "id": "camarones-oven-4",
+    "title": "Camarones al horno con papa y brócoli",
+    "protein": "Camarones",
+    "carb": "Papa",
+    "fiber": "Brócoli",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/camarones-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Camarones",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Papa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Brócoli",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Yogur",
+        "qty": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Sirva con un hilo de yogur.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el camarones con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el papa y el brócoli al vapor o en la misma bandeja.",
+      "Reposa el camarones 3 minutos y emplata con el papa y el brócoli."
+    ]
+  },
+  {
+    "id": "salmon-grill-0",
+    "title": "Salmón a la parrilla con arroz y tomate",
+    "protein": "Salmón",
+    "carb": "Arroz",
+    "fiber": "Tomate",
+    "method": "grill",
+    "kcalBand": "balanced",
+    "image": "/recipes/salmon-grill.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Salmón",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Arroz",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Tomate",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Añada aceitunas al final.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Unta el salmón con aceite de oliva, orégano, sal y pimienta.",
+      "Ásalo a la parrilla 4–6 minutos por lado, sin pasarlo.",
+      "Cocina el arroz y mezcla el tomate con aceite de oliva y ajo.",
+      "Sirve el salmón con el arroz y el tomate al lado."
+    ]
+  },
+  {
+    "id": "salmon-oven-1",
+    "title": "Salmón al horno con quinoa y espinaca",
+    "protein": "Salmón",
+    "carb": "Quinoa",
+    "fiber": "Espinaca",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/salmon-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Salmón",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Quinoa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Espinaca",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Queso feta",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Desmigaje queso feta por encima.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el salmón con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el quinoa y el espinaca al vapor o en la misma bandeja.",
+      "Reposa el salmón 3 minutos y emplata con el quinoa y el espinaca."
+    ]
+  },
+  {
+    "id": "salmon-stovetop-2",
+    "title": "Salmón en sartén con pasta y calabacín",
+    "protein": "Salmón",
+    "carb": "Pasta",
+    "fiber": "Calabacín",
+    "method": "stovetop",
+    "kcalBand": "balanced",
+    "image": "/recipes/salmon-stovetop.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Salmón",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Pasta",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Calabacín",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Orégano",
+        "qty": 4,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 30,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Remate con orégano seco.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Calienta una sartén con un hilo de aceite de oliva.",
+      "Cocina el salmón a fuego medio hasta el punto.",
+      "En otra olla cocina el pasta; saltea el calabacín con ajo.",
+      "Sirve caliente: salmón, pasta y el calabacín."
+    ]
+  },
+  {
+    "id": "salmon-salad-3",
+    "title": "Salmón en ensalada con cuscús y pepino",
+    "protein": "Salmón",
+    "carb": "Cuscús",
+    "fiber": "Pepino",
+    "method": "salad",
+    "kcalBand": "balanced",
+    "image": "/recipes/salmon-salad.svg",
+    "time": "15 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Salmón",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Cuscús",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Pepino",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Mayonesa",
+        "qty": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Un toque de mayonesa al emplatar.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Cocina o desmenuza el salmón y déjalo templado.",
+      "Prepara el cuscús y corta el pepino.",
+      "Aliña con aceite de oliva, limón y orégano.",
+      "Junta el salmón con el cuscús y el pepino en dos bowls."
+    ]
+  },
+  {
+    "id": "salmon-oven-4",
+    "title": "Salmón al horno con papa y brócoli",
+    "protein": "Salmón",
+    "carb": "Papa",
+    "fiber": "Brócoli",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/salmon-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Salmón",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Papa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Brócoli",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Yogur",
+        "qty": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Sirva con un hilo de yogur.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el salmón con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el papa y el brócoli al vapor o en la misma bandeja.",
+      "Reposa el salmón 3 minutos y emplata con el papa y el brócoli."
+    ]
+  },
+  {
+    "id": "basa-grill-0",
+    "title": "Basa a la parrilla con arroz y tomate",
+    "protein": "Basa",
+    "carb": "Arroz",
+    "fiber": "Tomate",
+    "method": "grill",
+    "kcalBand": "balanced",
+    "image": "/recipes/basa-grill.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Basa",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Arroz",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Tomate",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Añada aceitunas al final.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Unta el basa con aceite de oliva, orégano, sal y pimienta.",
+      "Ásalo a la parrilla 4–6 minutos por lado, sin pasarlo.",
+      "Cocina el arroz y mezcla el tomate con aceite de oliva y ajo.",
+      "Sirve el basa con el arroz y el tomate al lado."
+    ]
+  },
+  {
+    "id": "basa-oven-1",
+    "title": "Basa al horno con quinoa y espinaca",
+    "protein": "Basa",
+    "carb": "Quinoa",
+    "fiber": "Espinaca",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/basa-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Basa",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Quinoa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Espinaca",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Queso feta",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Desmigaje queso feta por encima.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el basa con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el quinoa y el espinaca al vapor o en la misma bandeja.",
+      "Reposa el basa 3 minutos y emplata con el quinoa y el espinaca."
+    ]
+  },
+  {
+    "id": "basa-stovetop-2",
+    "title": "Basa en sartén con pasta y calabacín",
+    "protein": "Basa",
+    "carb": "Pasta",
+    "fiber": "Calabacín",
+    "method": "stovetop",
+    "kcalBand": "balanced",
+    "image": "/recipes/basa-stovetop.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Basa",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Pasta",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Calabacín",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Orégano",
+        "qty": 4,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 30,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Remate con orégano seco.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Calienta una sartén con un hilo de aceite de oliva.",
+      "Cocina el basa a fuego medio hasta el punto.",
+      "En otra olla cocina el pasta; saltea el calabacín con ajo.",
+      "Sirve caliente: basa, pasta y el calabacín."
+    ]
+  },
+  {
+    "id": "basa-salad-3",
+    "title": "Basa en ensalada con cuscús y pepino",
+    "protein": "Basa",
+    "carb": "Cuscús",
+    "fiber": "Pepino",
+    "method": "salad",
+    "kcalBand": "balanced",
+    "image": "/recipes/basa-salad.svg",
+    "time": "15 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Basa",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Cuscús",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Pepino",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Mayonesa",
+        "qty": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Un toque de mayonesa al emplatar.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Cocina o desmenuza el basa y déjalo templado.",
+      "Prepara el cuscús y corta el pepino.",
+      "Aliña con aceite de oliva, limón y orégano.",
+      "Junta el basa con el cuscús y el pepino en dos bowls."
+    ]
+  },
+  {
+    "id": "basa-oven-4",
+    "title": "Basa al horno con papa y brócoli",
+    "protein": "Basa",
+    "carb": "Papa",
+    "fiber": "Brócoli",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/basa-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Basa",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Papa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Brócoli",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Yogur",
+        "qty": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Sirva con un hilo de yogur.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el basa con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el papa y el brócoli al vapor o en la misma bandeja.",
+      "Reposa el basa 3 minutos y emplata con el papa y el brócoli."
+    ]
+  },
+  {
+    "id": "sardinas-grill-0",
+    "title": "Sardinas a la parrilla con arroz y tomate",
+    "protein": "Sardinas",
+    "carb": "Arroz",
+    "fiber": "Tomate",
+    "method": "grill",
+    "kcalBand": "balanced",
+    "image": "/recipes/sardinas-grill.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Sardinas",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Arroz",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Tomate",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Añada aceitunas al final.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Unta el sardinas con aceite de oliva, orégano, sal y pimienta.",
+      "Ásalo a la parrilla 4–6 minutos por lado, sin pasarlo.",
+      "Cocina el arroz y mezcla el tomate con aceite de oliva y ajo.",
+      "Sirve el sardinas con el arroz y el tomate al lado."
+    ]
+  },
+  {
+    "id": "sardinas-oven-1",
+    "title": "Sardinas al horno con quinoa y espinaca",
+    "protein": "Sardinas",
+    "carb": "Quinoa",
+    "fiber": "Espinaca",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/sardinas-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Sardinas",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Quinoa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Espinaca",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Queso feta",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Desmigaje queso feta por encima.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el sardinas con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el quinoa y el espinaca al vapor o en la misma bandeja.",
+      "Reposa el sardinas 3 minutos y emplata con el quinoa y el espinaca."
+    ]
+  },
+  {
+    "id": "sardinas-stovetop-2",
+    "title": "Sardinas en sartén con pasta y calabacín",
+    "protein": "Sardinas",
+    "carb": "Pasta",
+    "fiber": "Calabacín",
+    "method": "stovetop",
+    "kcalBand": "balanced",
+    "image": "/recipes/sardinas-stovetop.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Sardinas",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Pasta",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Calabacín",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Orégano",
+        "qty": 4,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 30,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Remate con orégano seco.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Calienta una sartén con un hilo de aceite de oliva.",
+      "Cocina el sardinas a fuego medio hasta el punto.",
+      "En otra olla cocina el pasta; saltea el calabacín con ajo.",
+      "Sirve caliente: sardinas, pasta y el calabacín."
+    ]
+  },
+  {
+    "id": "sardinas-salad-3",
+    "title": "Sardinas en ensalada con cuscús y pepino",
+    "protein": "Sardinas",
+    "carb": "Cuscús",
+    "fiber": "Pepino",
+    "method": "salad",
+    "kcalBand": "balanced",
+    "image": "/recipes/sardinas-salad.svg",
+    "time": "15 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Sardinas",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Cuscús",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Pepino",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Mayonesa",
+        "qty": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Un toque de mayonesa al emplatar.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Cocina o desmenuza el sardinas y déjalo templado.",
+      "Prepara el cuscús y corta el pepino.",
+      "Aliña con aceite de oliva, limón y orégano.",
+      "Junta el sardinas con el cuscús y el pepino en dos bowls."
+    ]
+  },
+  {
+    "id": "sardinas-oven-4",
+    "title": "Sardinas al horno con papa y brócoli",
+    "protein": "Sardinas",
+    "carb": "Papa",
+    "fiber": "Brócoli",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/sardinas-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Sardinas",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Papa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Brócoli",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Yogur",
+        "qty": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Sirva con un hilo de yogur.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el sardinas con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el papa y el brócoli al vapor o en la misma bandeja.",
+      "Reposa el sardinas 3 minutos y emplata con el papa y el brócoli."
+    ]
+  },
+  {
+    "id": "huevo-grill-0",
+    "title": "Huevo a la parrilla con arroz y tomate",
+    "protein": "Huevo",
+    "carb": "Arroz",
+    "fiber": "Tomate",
+    "method": "grill",
+    "kcalBand": "balanced",
+    "image": "/recipes/huevo-grill.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Huevo",
+        "qty": 4,
+        "unit": "ud"
+      },
+      {
+        "name": "Arroz",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Tomate",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Añada aceitunas al final.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Unta el huevo con aceite de oliva, orégano, sal y pimienta.",
+      "Ásalo a la parrilla 4–6 minutos por lado, sin pasarlo.",
+      "Cocina el arroz y mezcla el tomate con aceite de oliva y ajo.",
+      "Sirve el huevo con el arroz y el tomate al lado."
+    ]
+  },
+  {
+    "id": "huevo-oven-1",
+    "title": "Huevo al horno con quinoa y espinaca",
+    "protein": "Huevo",
+    "carb": "Quinoa",
+    "fiber": "Espinaca",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/huevo-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Huevo",
+        "qty": 4,
+        "unit": "ud"
+      },
+      {
+        "name": "Quinoa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Espinaca",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Queso feta",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Desmigaje queso feta por encima.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el huevo con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el quinoa y el espinaca al vapor o en la misma bandeja.",
+      "Reposa el huevo 3 minutos y emplata con el quinoa y el espinaca."
+    ]
+  },
+  {
+    "id": "huevo-stovetop-2",
+    "title": "Huevo en sartén con pasta y calabacín",
+    "protein": "Huevo",
+    "carb": "Pasta",
+    "fiber": "Calabacín",
+    "method": "stovetop",
+    "kcalBand": "balanced",
+    "image": "/recipes/huevo-stovetop.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Huevo",
+        "qty": 4,
+        "unit": "ud"
+      },
+      {
+        "name": "Pasta",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Calabacín",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Orégano",
+        "qty": 4,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 30,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Remate con orégano seco.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Calienta una sartén con un hilo de aceite de oliva.",
+      "Cocina el huevo a fuego medio hasta el punto.",
+      "En otra olla cocina el pasta; saltea el calabacín con ajo.",
+      "Sirve caliente: huevo, pasta y el calabacín."
+    ]
+  },
+  {
+    "id": "huevo-salad-3",
+    "title": "Huevo en ensalada con cuscús y pepino",
+    "protein": "Huevo",
+    "carb": "Cuscús",
+    "fiber": "Pepino",
+    "method": "salad",
+    "kcalBand": "balanced",
+    "image": "/recipes/huevo-salad.svg",
+    "time": "15 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Huevo",
+        "qty": 4,
+        "unit": "ud"
+      },
+      {
+        "name": "Cuscús",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Pepino",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Mayonesa",
+        "qty": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Un toque de mayonesa al emplatar.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Cocina o desmenuza el huevo y déjalo templado.",
+      "Prepara el cuscús y corta el pepino.",
+      "Aliña con aceite de oliva, limón y orégano.",
+      "Junta el huevo con el cuscús y el pepino en dos bowls."
+    ]
+  },
+  {
+    "id": "huevo-oven-4",
+    "title": "Huevo al horno con papa y brócoli",
+    "protein": "Huevo",
+    "carb": "Papa",
+    "fiber": "Brócoli",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/huevo-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Huevo",
+        "qty": 4,
+        "unit": "ud"
+      },
+      {
+        "name": "Papa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Brócoli",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Yogur",
+        "qty": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Sirva con un hilo de yogur.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el huevo con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el papa y el brócoli al vapor o en la misma bandeja.",
+      "Reposa el huevo 3 minutos y emplata con el papa y el brócoli."
+    ]
+  },
+  {
+    "id": "atun-grill-0",
+    "title": "Atún a la parrilla con arroz y tomate",
+    "protein": "Atún",
+    "carb": "Arroz",
+    "fiber": "Tomate",
+    "method": "grill",
+    "kcalBand": "balanced",
+    "image": "/recipes/atun-grill.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Atún",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Arroz",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Tomate",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Añada aceitunas al final.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Unta el atún con aceite de oliva, orégano, sal y pimienta.",
+      "Ásalo a la parrilla 4–6 minutos por lado, sin pasarlo.",
+      "Cocina el arroz y mezcla el tomate con aceite de oliva y ajo.",
+      "Sirve el atún con el arroz y el tomate al lado."
+    ]
+  },
+  {
+    "id": "atun-oven-1",
+    "title": "Atún al horno con quinoa y espinaca",
+    "protein": "Atún",
+    "carb": "Quinoa",
+    "fiber": "Espinaca",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/atun-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Atún",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Quinoa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Espinaca",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Queso feta",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Desmigaje queso feta por encima.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el atún con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el quinoa y el espinaca al vapor o en la misma bandeja.",
+      "Reposa el atún 3 minutos y emplata con el quinoa y el espinaca."
+    ]
+  },
+  {
+    "id": "atun-stovetop-2",
+    "title": "Atún en sartén con pasta y calabacín",
+    "protein": "Atún",
+    "carb": "Pasta",
+    "fiber": "Calabacín",
+    "method": "stovetop",
+    "kcalBand": "balanced",
+    "image": "/recipes/atun-stovetop.svg",
+    "time": "25 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Atún",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Pasta",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Calabacín",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Orégano",
+        "qty": 4,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 30,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Remate con orégano seco.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Calienta una sartén con un hilo de aceite de oliva.",
+      "Cocina el atún a fuego medio hasta el punto.",
+      "En otra olla cocina el pasta; saltea el calabacín con ajo.",
+      "Sirve caliente: atún, pasta y el calabacín."
+    ]
+  },
+  {
+    "id": "atun-salad-3",
+    "title": "Atún en ensalada con cuscús y pepino",
+    "protein": "Atún",
+    "carb": "Cuscús",
+    "fiber": "Pepino",
+    "method": "salad",
+    "kcalBand": "balanced",
+    "image": "/recipes/atun-salad.svg",
+    "time": "15 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Atún",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Cuscús",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Pepino",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Mayonesa",
+        "qty": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Aceitunas",
+        "qty": 40,
+        "unit": "g"
+      }
+    ],
+    "optionalSteps": [
+      "Un toque de mayonesa al emplatar.",
+      "Añada aceitunas al final."
+    ],
+    "steps": [
+      "Cocina o desmenuza el atún y déjalo templado.",
+      "Prepara el cuscús y corta el pepino.",
+      "Aliña con aceite de oliva, limón y orégano.",
+      "Junta el atún con el cuscús y el pepino en dos bowls."
+    ]
+  },
+  {
+    "id": "atun-oven-4",
+    "title": "Atún al horno con papa y brócoli",
+    "protein": "Atún",
+    "carb": "Papa",
+    "fiber": "Brócoli",
+    "method": "oven",
+    "kcalBand": "balanced",
+    "image": "/recipes/atun-oven.svg",
+    "time": "35 min",
+    "servingsBase": 2,
+    "ingredients": [
+      {
+        "name": "Atún",
+        "qty": 280,
+        "unit": "g"
+      },
+      {
+        "name": "Papa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "Brócoli",
+        "qty": 140,
+        "unit": "g"
+      }
+    ],
+    "optionalIngredients": [
+      {
+        "name": "Yogur",
+        "qty": 60,
+        "unit": "g"
+      },
+      {
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
+      }
+    ],
+    "optionalSteps": [
+      "Sirva con un hilo de yogur.",
+      "Exprima un limón al servir."
+    ],
+    "steps": [
+      "Precalienta el horno a 200 °C. Aliña el atún con aceite de oliva, ajo y orégano.",
+      "Hornea 18–25 minutos hasta que esté tierno.",
+      "Prepara el papa y el brócoli al vapor o en la misma bandeja.",
+      "Reposa el atún 3 minutos y emplata con el papa y el brócoli."
+    ]
+  }
+]
