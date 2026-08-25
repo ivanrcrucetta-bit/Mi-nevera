@@ -13,7 +13,7 @@ import { StarRating } from "@/components/star-rating";
 import { METHOD_META, formatQty, isAttachedOptional } from "@/lib/display";
 import { emojiFor, proteinShortcuts } from "@/lib/foods";
 import { computeMacros } from "@/lib/nutrition";
-import { canonicalProtein, isProtein } from "@/lib/protein";
+import { canonicalProtein, isProtein, type ProteinName } from "@/lib/protein";
 import { proteinsForPicker } from "@/lib/recipe-edit";
 import type { Item, MenuSlot, Stars } from "@/lib/types";
 
@@ -45,7 +45,7 @@ export function RecipeSheet({
   const fridgeNames = items.map((i) => i.name);
   const picker = proteinsForPicker(fridgeNames);
   const inFridge = new Set(
-    items.map((i) => canonicalProtein(i.name)).filter((n): n is string => n !== null)
+    items.map((i) => canonicalProtein(i.name)).filter((n): n is ProteinName => n !== null)
   );
 
   return (

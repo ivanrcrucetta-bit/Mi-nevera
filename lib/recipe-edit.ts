@@ -1,5 +1,5 @@
 import { unitFor } from "./foods";
-import { canonicalProtein, normalizeName, PROTEINS } from "./protein";
+import { canonicalProtein, normalizeName, PROTEINS, type ProteinName } from "./protein";
 import type { Recipe } from "./types";
 
 export const QTY_STEP_G = 50;
@@ -62,7 +62,7 @@ export function replaceProtein(recipe: Recipe, protein: string, servings = 2): R
   };
 }
 
-export function proteinsForPicker(inFridge: string[]): string[] {
+export function proteinsForPicker(inFridge: string[]): ProteinName[] {
   const have = new Set(inFridge.map((n) => canonicalProtein(n) ?? n));
   const first = PROTEINS.filter((p) => have.has(p));
   const rest = PROTEINS.filter((p) => !have.has(p));
