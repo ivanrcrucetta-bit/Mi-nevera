@@ -57,7 +57,7 @@ function steps(method, p, c, f) {
     salad: [
       `Cocina o desmenuza el ${p} y déjalo templado.`,
       `Prepara el ${c} y corta el ${f}.`,
-      `Aliña con aceite de oliva, limón y orégano.`,
+      `Aliña con aceite de oliva.`,
       `Junta el ${p} con el ${c} y el ${f} en dos bowls.`,
     ],
   };
@@ -81,7 +81,7 @@ const proteins = Object.keys(slugs);
 const patterns = [
   { method: "grill", carb: "Arroz", fiber: "Tomate", opts: [["Aceitunas", 40, "g"], ["Limón", 1, "ud"]] },
   { method: "oven", carb: "Quinoa", fiber: "Espinaca", opts: [["Queso feta", 40, "g"], ["Limón", 1, "ud"]] },
-  { method: "stovetop", carb: "Pasta", fiber: "Calabacín", opts: [["Orégano", 4, "g"], ["Aceitunas", 30, "g"]] },
+  { method: "stovetop", carb: "Pasta", fiber: "Calabacín", opts: [["Limón", 1, "ud"], ["Aceitunas", 30, "g"]] },
   { method: "salad", carb: "Cuscús", fiber: "Pepino", opts: [["Mayonesa", 30, "g"], ["Aceitunas", 40, "g"]] },
   { method: "oven", carb: "Papa", fiber: "Brócoli", opts: [["Yogur", 60, "g"], ["Limón", 1, "ud"]] },
 ];

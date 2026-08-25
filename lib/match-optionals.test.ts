@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { applyOptionals, adaptRecipe, canCook, ingredientsUsed } from "./match";
+import { applyOptionals, adaptRecipe, canCook, ingredientsUsed, isPantry } from "./match";
 import { consumeIngredients } from "./inventory";
 import type { Item, Recipe } from "./types";
 
@@ -81,5 +81,28 @@ describe("applyOptionals", () => {
     const after = consumeIngredients(stock, used);
     expect(after.find((i) => i.name === "Limón")?.qty).toBe(2);
     expect(after.find((i) => i.name === "Aceitunas")?.qty).toBe(80);
+  });
+});
+
+describe("isPantry", () => {
+  it("does not treat salmon as salt", () => {
+    expect(isPantry("Salmón")).toBe(false);
+    expect(isPantry("Salami")).toBe(false);
+    expect(isPantry("Salsa de tomate")).toBe(false);
+    expect(isPantry("sal")).toBe(true);
+    expect(isPantry("Aceite de oliva")).toBe(true);
+  });
+
+  it("still deducts salmon when cooked", () => {
+    const used = ingredientsUsed({
+      ...base,
+      protein: "Salmón",
+      ingredients: [
+        { name: "Salmón", qty: 280, unit: "g" },
+        { name: "Arroz", qty: 160, unit: "g" },
+        { name: "Lechuga", qty: 150, unit: "g" },
+      ],
+    });
+    expect(used.some((i) => i.name === "Salmón")).toBe(true);
   });
 });

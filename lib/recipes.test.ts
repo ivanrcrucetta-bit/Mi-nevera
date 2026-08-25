@@ -19,4 +19,21 @@ describe("mediterranean catalog", () => {
       expect(r.steps.length).toBeGreaterThanOrEqual(4);
     }
   });
+
+  it("salad base steps do not mention lemon", () => {
+    for (const r of RECIPES.filter((recipe) => recipe.method === "salad")) {
+      for (const step of r.steps) {
+        expect(step.toLowerCase()).not.toMatch(/lim[oó]n/);
+      }
+    }
+  });
+
+  it("optionals meet the attach minimum", () => {
+    for (const r of RECIPES) {
+      for (const opt of r.optionalIngredients) {
+        if (opt.unit === "ud") expect(opt.qty).toBeGreaterThanOrEqual(1);
+        else expect(opt.qty).toBeGreaterThanOrEqual(30);
+      }
+    }
+  });
 });

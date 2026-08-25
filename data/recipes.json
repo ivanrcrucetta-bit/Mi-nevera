@@ -131,9 +131,9 @@
     ],
     "optionalIngredients": [
       {
-        "name": "Orégano",
-        "qty": 4,
-        "unit": "g"
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
       },
       {
         "name": "Aceitunas",
@@ -142,7 +142,7 @@
       }
     ],
     "optionalSteps": [
-      "Remate con orégano seco.",
+      "Exprima un limón al servir.",
       "Añada aceitunas al final."
     ],
     "steps": [
@@ -199,7 +199,7 @@
     "steps": [
       "Cocina o desmenuza el hamburguesa de res y déjalo templado.",
       "Prepara el cuscús y corta el pepino.",
-      "Aliña con aceite de oliva, limón y orégano.",
+      "Aliña con aceite de oliva.",
       "Junta el hamburguesa de res con el cuscús y el pepino en dos bowls."
     ]
   },
@@ -386,9 +386,9 @@
     ],
     "optionalIngredients": [
       {
-        "name": "Orégano",
-        "qty": 4,
-        "unit": "g"
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
       },
       {
         "name": "Aceitunas",
@@ -397,7 +397,7 @@
       }
     ],
     "optionalSteps": [
-      "Remate con orégano seco.",
+      "Exprima un limón al servir.",
       "Añada aceitunas al final."
     ],
     "steps": [
@@ -454,7 +454,7 @@
     "steps": [
       "Cocina o desmenuza el hamburguesa de pollo y déjalo templado.",
       "Prepara el cuscús y corta el pepino.",
-      "Aliña con aceite de oliva, limón y orégano.",
+      "Aliña con aceite de oliva.",
       "Junta el hamburguesa de pollo con el cuscús y el pepino en dos bowls."
     ]
   },
@@ -641,9 +641,9 @@
     ],
     "optionalIngredients": [
       {
-        "name": "Orégano",
-        "qty": 4,
-        "unit": "g"
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
       },
       {
         "name": "Aceitunas",
@@ -652,7 +652,7 @@
       }
     ],
     "optionalSteps": [
-      "Remate con orégano seco.",
+      "Exprima un limón al servir.",
       "Añada aceitunas al final."
     ],
     "steps": [
@@ -709,7 +709,7 @@
     "steps": [
       "Cocina o desmenuza el carne molida de res y déjalo templado.",
       "Prepara el cuscús y corta el pepino.",
-      "Aliña con aceite de oliva, limón y orégano.",
+      "Aliña con aceite de oliva.",
       "Junta el carne molida de res con el cuscús y el pepino en dos bowls."
     ]
   },
@@ -896,9 +896,9 @@
     ],
     "optionalIngredients": [
       {
-        "name": "Orégano",
-        "qty": 4,
-        "unit": "g"
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
       },
       {
         "name": "Aceitunas",
@@ -907,7 +907,7 @@
       }
     ],
     "optionalSteps": [
-      "Remate con orégano seco.",
+      "Exprima un limón al servir.",
       "Añada aceitunas al final."
     ],
     "steps": [
@@ -964,7 +964,7 @@
     "steps": [
       "Cocina o desmenuza el carne molida de cerdo y déjalo templado.",
       "Prepara el cuscús y corta el pepino.",
-      "Aliña con aceite de oliva, limón y orégano.",
+      "Aliña con aceite de oliva.",
       "Junta el carne molida de cerdo con el cuscús y el pepino en dos bowls."
     ]
   },
@@ -1151,9 +1151,9 @@
     ],
     "optionalIngredients": [
       {
-        "name": "Orégano",
-        "qty": 4,
-        "unit": "g"
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
       },
       {
         "name": "Aceitunas",
@@ -1162,7 +1162,7 @@
       }
     ],
     "optionalSteps": [
-      "Remate con orégano seco.",
+      "Exprima un limón al servir.",
       "Añada aceitunas al final."
     ],
     "steps": [
@@ -1219,7 +1219,7 @@
     "steps": [
       "Cocina o desmenuza el carne molida de pollo y déjalo templado.",
       "Prepara el cuscús y corta el pepino.",
-      "Aliña con aceite de oliva, limón y orégano.",
+      "Aliña con aceite de oliva.",
       "Junta el carne molida de pollo con el cuscús y el pepino en dos bowls."
     ]
   },
@@ -1406,9 +1406,9 @@
     ],
     "optionalIngredients": [
       {
-        "name": "Orégano",
-        "qty": 4,
-        "unit": "g"
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
       },
       {
         "name": "Aceitunas",
@@ -1417,7 +1417,7 @@
       }
     ],
     "optionalSteps": [
-      "Remate con orégano seco.",
+      "Exprima un limón al servir.",
       "Añada aceitunas al final."
     ],
     "steps": [
@@ -1474,7 +1474,7 @@
     "steps": [
       "Cocina o desmenuza el pechuga de pollo y déjalo templado.",
       "Prepara el cuscús y corta el pepino.",
-      "Aliña con aceite de oliva, limón y orégano.",
+      "Aliña con aceite de oliva.",
       "Junta el pechuga de pollo con el cuscús y el pepino en dos bowls."
     ]
   },
@@ -1661,9 +1661,9 @@
     ],
     "optionalIngredients": [
       {
-        "name": "Orégano",
-        "qty": 4,
-        "unit": "g"
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
       },
       {
         "name": "Aceitunas",
@@ -1672,7 +1672,7 @@
       }
     ],
     "optionalSteps": [
-      "Remate con orégano seco.",
+      "Exprima un limón al servir.",
       "Añada aceitunas al final."
     ],
     "steps": [
@@ -1729,7 +1729,7 @@
     "steps": [
       "Cocina o desmenuza el muslo de pollo y déjalo templado.",
       "Prepara el cuscús y corta el pepino.",
-      "Aliña con aceite de oliva, limón y orégano.",
+      "Aliña con aceite de oliva.",
       "Junta el muslo de pollo con el cuscús y el pepino en dos bowls."
     ]
   },
@@ -1916,9 +1916,9 @@
     ],
     "optionalIngredients": [
       {
-        "name": "Orégano",
-        "qty": 4,
-        "unit": "g"
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
       },
       {
         "name": "Aceitunas",
@@ -1927,7 +1927,7 @@
       }
     ],
     "optionalSteps": [
-      "Remate con orégano seco.",
+      "Exprima un limón al servir.",
       "Añada aceitunas al final."
     ],
     "steps": [
@@ -2171,9 +2171,9 @@
     ],
     "optionalIngredients": [
       {
-        "name": "Orégano",
-        "qty": 4,
-        "unit": "g"
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
       },
       {
         "name": "Aceitunas",
@@ -2182,7 +2182,7 @@
       }
     ],
     "optionalSteps": [
-      "Remate con orégano seco.",
+      "Exprima un limón al servir.",
       "Añada aceitunas al final."
     ],
     "steps": [
@@ -2426,9 +2426,9 @@
     ],
     "optionalIngredients": [
       {
-        "name": "Orégano",
-        "qty": 4,
-        "unit": "g"
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
       },
       {
         "name": "Aceitunas",
@@ -2437,7 +2437,7 @@
       }
     ],
     "optionalSteps": [
-      "Remate con orégano seco.",
+      "Exprima un limón al servir.",
       "Añada aceitunas al final."
     ],
     "steps": [
@@ -2681,9 +2681,9 @@
     ],
     "optionalIngredients": [
       {
-        "name": "Orégano",
-        "qty": 4,
-        "unit": "g"
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
       },
       {
         "name": "Aceitunas",
@@ -2692,7 +2692,7 @@
       }
     ],
     "optionalSteps": [
-      "Remate con orégano seco.",
+      "Exprima un limón al servir.",
       "Añada aceitunas al final."
     ],
     "steps": [
@@ -2749,7 +2749,7 @@
     "steps": [
       "Cocina o desmenuza el camarones y déjalo templado.",
       "Prepara el cuscús y corta el pepino.",
-      "Aliña con aceite de oliva, limón y orégano.",
+      "Aliña con aceite de oliva.",
       "Junta el camarones con el cuscús y el pepino en dos bowls."
     ]
   },
@@ -2936,9 +2936,9 @@
     ],
     "optionalIngredients": [
       {
-        "name": "Orégano",
-        "qty": 4,
-        "unit": "g"
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
       },
       {
         "name": "Aceitunas",
@@ -2947,7 +2947,7 @@
       }
     ],
     "optionalSteps": [
-      "Remate con orégano seco.",
+      "Exprima un limón al servir.",
       "Añada aceitunas al final."
     ],
     "steps": [
@@ -3004,7 +3004,7 @@
     "steps": [
       "Cocina o desmenuza el salmón y déjalo templado.",
       "Prepara el cuscús y corta el pepino.",
-      "Aliña con aceite de oliva, limón y orégano.",
+      "Aliña con aceite de oliva.",
       "Junta el salmón con el cuscús y el pepino en dos bowls."
     ]
   },
@@ -3191,9 +3191,9 @@
     ],
     "optionalIngredients": [
       {
-        "name": "Orégano",
-        "qty": 4,
-        "unit": "g"
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
       },
       {
         "name": "Aceitunas",
@@ -3202,7 +3202,7 @@
       }
     ],
     "optionalSteps": [
-      "Remate con orégano seco.",
+      "Exprima un limón al servir.",
       "Añada aceitunas al final."
     ],
     "steps": [
@@ -3259,7 +3259,7 @@
     "steps": [
       "Cocina o desmenuza el basa y déjalo templado.",
       "Prepara el cuscús y corta el pepino.",
-      "Aliña con aceite de oliva, limón y orégano.",
+      "Aliña con aceite de oliva.",
       "Junta el basa con el cuscús y el pepino en dos bowls."
     ]
   },
@@ -3446,9 +3446,9 @@
     ],
     "optionalIngredients": [
       {
-        "name": "Orégano",
-        "qty": 4,
-        "unit": "g"
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
       },
       {
         "name": "Aceitunas",
@@ -3457,7 +3457,7 @@
       }
     ],
     "optionalSteps": [
-      "Remate con orégano seco.",
+      "Exprima un limón al servir.",
       "Añada aceitunas al final."
     ],
     "steps": [
@@ -3514,7 +3514,7 @@
     "steps": [
       "Cocina o desmenuza el sardinas y déjalo templado.",
       "Prepara el cuscús y corta el pepino.",
-      "Aliña con aceite de oliva, limón y orégano.",
+      "Aliña con aceite de oliva.",
       "Junta el sardinas con el cuscús y el pepino en dos bowls."
     ]
   },
@@ -3701,9 +3701,9 @@
     ],
     "optionalIngredients": [
       {
-        "name": "Orégano",
-        "qty": 4,
-        "unit": "g"
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
       },
       {
         "name": "Aceitunas",
@@ -3712,7 +3712,7 @@
       }
     ],
     "optionalSteps": [
-      "Remate con orégano seco.",
+      "Exprima un limón al servir.",
       "Añada aceitunas al final."
     ],
     "steps": [
@@ -3769,7 +3769,7 @@
     "steps": [
       "Cocina o desmenuza el huevo y déjalo templado.",
       "Prepara el cuscús y corta el pepino.",
-      "Aliña con aceite de oliva, limón y orégano.",
+      "Aliña con aceite de oliva.",
       "Junta el huevo con el cuscús y el pepino en dos bowls."
     ]
   },
@@ -3956,9 +3956,9 @@
     ],
     "optionalIngredients": [
       {
-        "name": "Orégano",
-        "qty": 4,
-        "unit": "g"
+        "name": "Limón",
+        "qty": 1,
+        "unit": "ud"
       },
       {
         "name": "Aceitunas",
@@ -3967,7 +3967,7 @@
       }
     ],
     "optionalSteps": [
-      "Remate con orégano seco.",
+      "Exprima un limón al servir.",
       "Añada aceitunas al final."
     ],
     "steps": [
@@ -4024,7 +4024,7 @@
     "steps": [
       "Cocina o desmenuza el atún y déjalo templado.",
       "Prepara el cuscús y corta el pepino.",
-      "Aliña con aceite de oliva, limón y orégano.",
+      "Aliña con aceite de oliva.",
       "Junta el atún con el cuscús y el pepino en dos bowls."
     ]
   },

@@ -58,8 +58,8 @@ export function applyOptionals(recipe: Recipe, items: Item[]): Recipe {
 }
 
 function isPantry(name: string): boolean {
-  const n = name.toLowerCase();
-  return [...PANTRY].some((p) => n === p || n.includes(p));
+  const n = normalizeName(name);
+  return [...PANTRY].some((p) => n === normalizeName(p));
 }
 
 export function scaleRecipe(recipe: Recipe, servings: number): Recipe {
